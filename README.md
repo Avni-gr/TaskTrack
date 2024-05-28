@@ -18,11 +18,11 @@ Welcome to Task Tracker, a simple yet effective web application designed to help
 
 ### Screenshot
 
-![](https://github.com/Avni-gr/Rock_Paper_Scissor-Game/blob/main/Screenshot%202024-04-28%20211733.png?raw=true)
+![](https://github.com/Avni-gr/TaskTrack/blob/main/Screenshot%202024-05-28%20133454.png?raw=true)
 
 ### Links
 
-- Live Site URL: (https://avni-gr.github.io/Rock_Paper_Scissor-Game/)
+- Live Site URL: (https://avni-gr.github.io/TaskTrack/)
 
 ## My process
 
