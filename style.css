@@ -62,3 +62,28 @@ h3{
   text-align: center;
   color: rgb(219, 219, 218);
 }
+
+@media (max-width: 497px){
+
+  .GridContainer {
+    grid-template-columns: 1fr;
+  }
+
+  .GridContainer > * {
+    width: 95%;
+    text-align: center;
+  }
+
+  #inputValue {
+    margin-bottom: 10px;
+  }
+
+  #list-date {
+    margin-bottom: 10px;
+  }
+
+  .TaskContainer{
+    grid-template-columns: 1fr;
+  }
+
+}
